@@ -1,0 +1,12 @@
+{
+    "ship": {
+        "message": "Ship #$id$",
+        "description": "Incremental IDs for project-shipping events",
+        "placeholders": {
+            "id": {
+                "content": "$1",
+                "example": "6789"
+            }
+        }
+    }
+}

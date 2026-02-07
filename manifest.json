@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "Get Flavortown Ship ID",
+  "version": "1.0",
+  "default_locale": "en",
+  "description": "Flavortown enhancement to extract data undocumented in the public API.",
+  "icons": {
+    "16": "images/icon-16.png",
+    "32": "images/icon-32.png",
+    "48": "images/icon-48.png",
+    "128": "images/icon-128.png"
+  },
+  "permissions": ["declarativeNetRequest", "webRequest"],
+  "host_permissions": ["https://flavortown.hackclub.com/votes/new*"],
+  "background": {
+    "service_worker": "scripts/sw.js"
+  },
+  "content_scripts": [
+    {
+      "js": ["scripts/content.js"],
+      "matches": [
+        "https://flavortown.hackclub.com/votes/new*"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["images/ship.svg"],
+      "matches": ["https://flavortown.hackclub.com/*"]
+    }
+  ]
+}
