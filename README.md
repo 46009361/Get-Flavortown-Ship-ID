@@ -8,4 +8,4 @@ A Chrome extension for Flavortown that tells you the ship ID when you're voting 
 
 To install, follow the instructions in the Releases page.
 
-Credits go to Flavortown for the [ship SVG](https://github.com/hackclub/flavortown/raw/44a250e12cf9b0fc634f9e759f432f90a73738d5/app/assets/images/icons/ship.svg) and a fork of Twemoji for the 🍪, 🚢, and #️⃣ icons, licensed under [CC BY 4.0](https://github.com/jdecked/twemoji/blob/main/LICENSE-GRAPHICS).
+Credits go to Flavortown for the [ship SVG](https://github.com/hackclub/flavortown/raw/44a250e12cf9b0fc634f9e759f432f90a73738d5/app/assets/images/icons/ship.svg) and a fork of Twemoji for the 🍪, 🚢, and #️⃣ icons, licensed under [CC BY 4.0](https://github.com/jdecked/twemoji/blob/main/LICENSE-GRAPHICS). This license allows relicensing under GNU GPL v3.0, which allows relicensing under AGPLv3. (pssst… loophole!)
