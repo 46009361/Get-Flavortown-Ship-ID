@@ -1,7 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Get Flavortown Ship ID",
-  "version": "1.1",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA/akTpSujgzWuJMG4KWExGQ9YkZNICaFjka5W/1Map1L26+Gq2T1JvAali7MpXUMZfV+FDKgI/TKF+PK+CpejN/VvceREkZ8j+TxdPJcckBum52YaO+nu7vQrdhh5i/L3/TxC9JTvtYKoQ2QtVyNb6dGQRZuvGR43CBGFZ0SUeP7N1YNQd4CwEUiG9XnVrMG0NFd7rSSVjyjFpG2SIOckPQnZUD13CgNrmBW+nbPdmeTzYYrfSInfM4S5PkR2r06S4sKZ0XBFKOECqxLgBWbk48UJQjxVDCc3z4gh2CRpOWtbwkGG0SlrNQM4WVilp6OYDaEf9c3QIHW95OefUlX6QQIDAQAB",
+  "version": "1.2",
   "default_locale": "en",
   "description": "Flavortown enhancement to extract data undocumented in the public API.",
   "icons": {
